@@ -22,6 +22,8 @@ class UserProfile {
 
 const getUserData = new UserProfile("Jatin", 23);
 const getUserData2 = new UserProfile("Rehul", 13);
+const getUserData3 = new UserProfile("harsh", 20);
 
 getUserData.greetUser();
 getUserData2.greetUser();
+getUserData3.greetUser();
